@@ -1,0 +1,4 @@
+baseURL = 'https://thiesjansen.github.io/tjwebsite/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'hugo-profile'
