@@ -1,0 +1,6 @@
+/* Fix distorted images in cards */
+.card-img-top {
+  object-fit: contain !important;
+  height: auto !important;
+  max-height: 250px; /* optional */
+}

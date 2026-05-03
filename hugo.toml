@@ -1,4 +1,0 @@
-baseURL = 'https://thiesjansen.nl'
-locale = 'en-us'
-title = 'My New Hugo Project'
-theme = 'hugo-profile'

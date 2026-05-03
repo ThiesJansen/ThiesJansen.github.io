@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Hugo Profile</title>
+    <link>http://localhost:1313/tags/research/</link>
+    <description>Recent content in Research on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhD celebrations</title>
+      <link>http://localhost:1313/posts/phd_celeb/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/phd_celeb/</guid>
+      <description>&lt;p&gt;On the 23th of October 2024 I defended and celebrated my PhD dissertation. It was day I really enjoyed and will never forget.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

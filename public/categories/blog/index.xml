@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Hugo Profile</title>
+    <link>http://localhost:1313/categories/blog/</link>
+    <description>Recent content in Blog on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h1 id=&#34;latest-preprints&#34;&gt;Latest preprints&lt;/h1&gt;&#xA;&lt;h2 id=&#34;2026&#34;&gt;2026&lt;/h2&gt;&#xA;&lt;p&gt;G. Meucci, P. O. Konstantinopoulou, &lt;strong&gt;T. Jansen&lt;/strong&gt;, G. Nagda, D. J. Carrad, E. Di Gennaro, Y. Chen, N. Manca, N. Bergeal, M. Bibes, A. Kalaboukhov, M. Salluzzo, R. Citro, F. Trier, N. Pryds, F. M. Granozio, A. Sambri, T. S. Jespersen&lt;br&gt;&#xA;&lt;em&gt;Intrinsic Negative-U Centers in Freestanding LaAlO3/SrTiO3 Micro-membranes&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;Arxiv&#34;&gt;https://doi.org/10.48550/arXiv.2601.13366&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;2025&#34;&gt;2025&lt;/h2&gt;&#xA;&lt;p&gt;S. A. Kahn, L. Stampfer, S. Marti-Sanchez, D. Olsteins, D. J. Carrad, &lt;strong&gt;T. Jansen&lt;/strong&gt;, J. Johansson, J. Arbiol, P. Krogstrup, T. S. Jespersen&lt;br&gt;&#xA;&lt;em&gt;Phase controlled multi-terminal Josephson junction in ternary hybrid nanowire&lt;/em&gt;&lt;br&gt;&#xA;&lt;a href=&#34;Arxiv&#34;&gt;https://doi.org/10.48550/arXiv.2511.04719&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DPG meeting 2026</title>
+      <link>http://localhost:1313/posts/dpg_meeting/</link>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dpg_meeting/</guid>
+      <description>&lt;p&gt;Last month I presented my results from my first year as postdoc at the DPG meeting Dresden. It was a cool event, meeting new and old friends.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frost cup</title>
+      <link>http://localhost:1313/posts/frost_cup/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/frost_cup/</guid>
+      <description>&lt;p&gt;5 running races across Copenhagen in the winter, with some &amp;lsquo;hygge&amp;rsquo; afterwards, that is the frost cup. I participed for the fun and to get in shape for the triathlon season, the last race was on familiar ground at DTU.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Attractive electrons in functional oxide based devices</title>
+      <link>http://localhost:1313/posts/negu/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/negu/</guid>
+      <description>&lt;p&gt;Normally, two electrons repel each other because they are both negatively charged. However, colleagues of mine have found that, at the interface between two oxides, electrons can also attract one another. We investigated this effect by exploiting the presence of accidental quantum dots and studying their transport as a function of gate voltage and magnetic field at millikelvin temperatures. I performed modeling to corroborate these exicting experimental results. The full story can be found in this &lt;a href=&#34;https://doi.org/10.48550/arXiv.2601.13366&#34;&gt;preprint&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Start Postdoc at DTU!</title>
+      <link>http://localhost:1313/posts/move_dk/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/move_dk/</guid>
+      <description>&lt;p&gt;I started my postdoc in the group of functional oxdies at the Danish Technical University under supervision of prof. Thomas Sand Jespersen. I will work on two dimensional semiconductor-superconductor membrane devices. This also means that I moved to a new city: Copenhagen! Looking forward to the work and finding my way in this new environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Observing structural crystal distortions in a very thin sandwich of oxides layers</title>
+      <link>http://localhost:1313/posts/111oxide/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/111oxide/</guid>
+      <description>&lt;p&gt;By stacking thin layers of different materials on top of each other a structural coupling between the layers can be achieved. This coupling can create new and interesting electronic behaviors.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PhD thesis online</title>
+      <link>http://localhost:1313/posts/phd_thesis_online/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/phd_thesis_online/</guid>
+      <description>&lt;p&gt;My PhD thesis titled: Topology and correlations in oxides and tellurides can now be found &lt;a href=&#34;https://doi.org/10.3990/1.9789036562935&#34;&gt;online&lt;/a&gt; (open access).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PhD celebrations</title>
+      <link>http://localhost:1313/posts/phd_celeb/</link>
+      <pubDate>Wed, 23 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/phd_celeb/</guid>
+      <description>&lt;p&gt;On the 23th of October 2024 I defended and celebrated my PhD dissertation. It was day I really enjoyed and will never forget.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Superconductivity offers new insights into quantum material</title>
+      <link>http://localhost:1313/posts/mbt/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mbt/</guid>
+      <description>&lt;p&gt;Our work on superconductivity in a new quantum material was featured in a blog of the University of Twente written by Kees Wesselink:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;For the first time since the discovery of the material MnBi2Te4 (MBT), researchers at the University of Twente have successfully made it behave like a superconductor. This marks an important step in understanding MBT and is significant for future technologies, such as new methods of information processing and quantum computing.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
